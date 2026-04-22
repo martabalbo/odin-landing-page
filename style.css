@@ -162,3 +162,11 @@ a, .subtitle {
     border-style: solid;
     border-width: 3px
 }
+
+.footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+}
