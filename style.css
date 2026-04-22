@@ -113,3 +113,52 @@ a, .subtitle {
     width: 150px;
     text-align: center;
 }
+
+.quote-space {
+    background-color: #e5e7eb;
+    color: #1f2937;
+    padding: 30px 300px;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: 300;
+    color: #1f2937;
+    padding: 30px;
+}
+
+.author {
+    font-weight: 700;
+    font-size: 18px;
+    text-align: end;
+}
+
+.popup {
+    background-color: #3882f6;
+    display: flex;
+    margin: 60px 200px;
+    padding: 50px 100px;
+    border-radius: 5px;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.popup-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color:white;
+    gap: 10px;
+}
+
+.call-to-action {
+    font-size: 18px;
+    font-weight: 700;
+
+}
+
+.popup .buttons {
+    border-color: white;
+    border-style: solid;
+    border-width: 3px
+}
